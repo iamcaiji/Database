@@ -18,7 +18,7 @@ This is Group08's course design on the DBMS course
 3. 完成自己的part
 4. `git add .`保存修改
 5. `git commit -m "简单说一下自己贡献了什么"`提交修改
-6. `git push`
+6. `git push origin 自己的分支`
 
 ##### 最后：
 自行上网页`merge`，也可以让组长自己`merge`
